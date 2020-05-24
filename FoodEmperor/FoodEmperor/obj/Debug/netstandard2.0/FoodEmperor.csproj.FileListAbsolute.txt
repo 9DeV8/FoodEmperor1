@@ -1,0 +1,14 @@
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\bin\Debug\netstandard2.0\FoodEmperor.deps.json
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\bin\Debug\netstandard2.0\FoodEmperor.dll
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\bin\Debug\netstandard2.0\FoodEmperor.pdb
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\FoodEmperor.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\FoodEmperor.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\FoodEmperor.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\FoodEmperor.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\FoodEmperor.dll
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\FoodEmperor.pdb
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor\obj\Debug\netstandard2.0\Views\LandingPage.xaml.g.cs

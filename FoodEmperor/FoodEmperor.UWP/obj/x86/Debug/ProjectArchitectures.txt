@@ -1,0 +1,1 @@
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor.UWP\FoodEmperor.UWP.csproj;x86

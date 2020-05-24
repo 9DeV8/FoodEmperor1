@@ -1,0 +1,2 @@
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Dominik\source\repos\FoodEmperor\FoodEmperor\FoodEmperor.Android\obj\Debug\81\FoodEmperor.Android.nuget.stamp
